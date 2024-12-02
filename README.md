@@ -81,7 +81,7 @@ This project involves analyzing bike sales data using **Excel PivotTables** and 
 
 ## 📷 **Visualizations**
 ### 📈 Line Chart: Revenue vs. Profit Trends
-((![image](https://github.com/user-attachments/assets/78f599d4-7a0e-4d9d-99d8-823a67f4e81a))
+(![image](https://github.com/user-attachments/assets/78f599d4-7a0e-4d9d-99d8-823a67f4e81a)
 
 ### 📊 Bar Chart: Revenue Distribution by Country
 (![image](https://github.com/user-attachments/assets/32b21732-9e9d-4b9a-9776-7e5f7c9b9326))
