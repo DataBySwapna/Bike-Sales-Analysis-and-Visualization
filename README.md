@@ -44,7 +44,7 @@ This project involves analyzing bike sales data using **Excel PivotTables** and 
   - 📈 Line Chart: Revenue vs. Profit Trends
   - 📊 Bar Chart: Product Revenue by Country
   - 🥧 Pie Chart: Product Revenue by Age Group
-- For more detailed report, please click [Bike Sales Analysis Presentation.pptx]()
+- For more detailed report, please click [Bike Sales Analysis Presentation.pptx](https://github.com/DataBySwapna/Bike-Sales-Analysis-and-Visualization/blob/main/Bike_Sales_Analysis_Presentation.pptx)
 ---
 
 ## 🔍 **Steps Followed**
