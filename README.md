@@ -74,8 +74,12 @@ This project involves analyzing bike sales data using **Excel PivotTables** and 
    - 🥧 Designed a pie chart for revenue contribution by age group.
 
 6. **Reflection and Recommendations**:
-   - Documented findings like underrepresentation of youth and male customers.
-   - Recommended targeting untapped demographics to boost revenue.
+    - **Expand Youth Market**: Focus on engaging the Youth demographic in the United States, Germany, and Canada.  
+    - **Boost Adult Sales in Canada and France**: Develop strategies to capture the Adult market in Canada and France.  
+    - **Focus on High-Performing Regions**: Prioritize investment in the United States and Adult segments.  
+    - **Investigate Low Revenue in the United Kingdom**: Analyze factors behind the UK's low revenue for corrective actions.  
+    - **Gender-Specific Campaigns**: Align marketing strategies with the dominant gender demographic in each region.
+ 
 
 ---
 
@@ -83,12 +87,18 @@ This project involves analyzing bike sales data using **Excel PivotTables** and 
 ### 📈 Line Chart: Revenue vs. Profit Trends
 ![image](https://github.com/user-attachments/assets/e0b85c7a-3a7f-4683-ac5f-d632647a9a9a)
 
-
 ### 📊 Bar Chart: Revenue Distribution by Country
-![image](https://github.com/user-attachments/assets/32b21732-9e9d-4b9a-9776-7e5f7c9b9326)
+![image](https://github.com/user-attachments/assets/494c06fc-c4e7-459d-803f-dd4ad4268db5)
 
 ### 🥧 Pie Chart: Revenue Contribution by Age Group
-![image](https://github.com/user-attachments/assets/06901083-83f7-4b94-a930-cf6d2c637966)
+![image](https://github.com/user-attachments/assets/b6b04017-8525-4b46-8717-320b31a5c975)
+
+### 📊 Bar Chart: Profit Summary by Country
+![image](https://github.com/user-attachments/assets/1aa8c4bf-5bed-44fb-9649-5d0b62f91c57)
+
+### 📊 Bar Chart: Revenue summary
+![image](https://github.com/user-attachments/assets/46b4916a-d441-4723-a641-e26a0133d6b4)
+
 
 ---
 
