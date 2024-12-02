@@ -95,5 +95,3 @@ This project involves analyzing bike sales data using **Excel PivotTables** and 
 This project demonstrates how **Excel PivotTables** and visualizations can turn raw data into meaningful insights. The analysis enables better decision-making by highlighting profitable markets, underperforming segments, and untapped opportunities.
 
 ---
-
-Let me know if you'd like further refinements or help adding actual images to your README!
