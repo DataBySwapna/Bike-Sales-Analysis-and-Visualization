@@ -67,12 +67,12 @@ This project involves analyzing bike sales data using **Excel PivotTables** and 
   - 🌟 **United States** as the most profitable country.
   - 🧑‍🦳 **Adults** and 👩 **Females** as the most profitable segments.
 ---
- **Reflection and Recommendations**:
-    - **Expand Youth Market**: Focus on engaging the Youth demographic in the United States, Germany, and Canada.  
-    - **Boost Adult Sales in Canada and France**: Develop strategies to capture the Adult market in Canada and France.  
-    - **Focus on High-Performing Regions**: Prioritize investment in the United States and Adult segments.  
-    - **Investigate Low Revenue in the United Kingdom**: Analyze factors behind the UK's low revenue for corrective actions.  
-    - **Gender-Specific Campaigns**: Align marketing strategies with the dominant gender demographic in each region.
+## ** Reflection and Recommendations**: 
+  - **Expand Youth Market**: Focus on engaging the Youth demographic in the United States, Germany, and Canada.  
+  - **Boost Adult Sales in Canada and France**: Develop strategies to capture the Adult market in Canada and France.  
+  - **Focus on High-Performing Regions**: Prioritize investment in the United States and Adult segments.  
+  - **Investigate Low Revenue in the United Kingdom**: Analyze factors behind the UK's low revenue for corrective actions.
+  - **Gender-Specific Campaigns**: Align marketing strategies with the dominant gender demographic in each region.
 ---
 ## 📌 **Conclusion**
 This project demonstrates how **Excel PivotTables** and visualizations can turn raw data into meaningful insights. The analysis enables better decision-making by highlighting profitable markets, underperforming segments, and untapped opportunities.
