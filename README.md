@@ -57,7 +57,7 @@ This project involves analyzing bike sales data using **Excel PivotTables** and 
 ![image](https://github.com/user-attachments/assets/45fb922b-52ed-4544-824e-ca63ca37f455)
 
 ---
-- For more detailed report, please click [Bike Sales Analysis Presentation.pptx](https://github.com/DataBySwapna/Bike-Sales-Analysis-and-Visualization/blob/main/Bike_Sales_Analysis_Presentation.pptx.
+- For more detailed report, please click [Bike Sales Analysis Presentation.pptx](https://github.com/DataBySwapna/Bike-Sales-Analysis-and-Visualization/blob/main/Bike_Sales_Analysis_Presentation.pptx.)
 ---
 ## 🚀 **Results**
 - Identified:
