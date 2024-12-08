@@ -46,19 +46,16 @@ This project involves analyzing bike sales data using **Excel PivotTables** and 
 
 ## 📷 **Visualizations**
 ### 📈 Line Chart: Revenue vs. Profit Trends
-![image](https://github.com/user-attachments/assets/e0b85c7a-3a7f-4683-ac5f-d632647a9a9a)
-
+![image](https://github.com/user-attachments/assets/798253fb-f658-4414-94a5-b54655bcba76)
 ### 📊 Bar Chart: Revenue Distribution by Country
-![image](https://github.com/user-attachments/assets/494c06fc-c4e7-459d-803f-dd4ad4268db5)
-
+![image](https://github.com/user-attachments/assets/39b2cbc2-38d2-4f28-89c3-40a4112cce29)
 ### 🥧 Pie Chart: Revenue Contribution by Age Group
-![image](https://github.com/user-attachments/assets/b6b04017-8525-4b46-8717-320b31a5c975)
-
+![image](https://github.com/user-attachments/assets/5ca09931-d7c4-47b6-a009-fe923f343386)
 ### 📊 Bar Chart: Profit Summary by Country
-![image](https://github.com/user-attachments/assets/1aa8c4bf-5bed-44fb-9649-5d0b62f91c57)
-
+![image](https://github.com/user-attachments/assets/8c9667b6-94a9-4770-9448-c00618be807e)
 ### 📊 Bar Chart: Revenue summary
-![image](https://github.com/user-attachments/assets/46b4916a-d441-4723-a641-e26a0133d6b4)
+![image](https://github.com/user-attachments/assets/45fb922b-52ed-4544-824e-ca63ca37f455)
+
 ---
 - For more detailed report, please click [Bike Sales Analysis Presentation.pptx](https://github.com/DataBySwapna/Bike-Sales-Analysis-and-Visualization/blob/main/Bike_Sales_Analysis_Presentation.pptx.
 ---
